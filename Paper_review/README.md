@@ -1,5 +1,6 @@
 # Contents
 
+0. [딥러닝 기초](00.딥러닝기초.md)
 1. [RNN](01.RNN.md)
 2. [Attention_Model](02.Attention_Model.md)
 3. [Self-Attention](03.Self-Attention.md)
